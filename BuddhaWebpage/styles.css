@@ -1,0 +1,23 @@
+h1{
+  margin:0;
+  text-align:center;
+  color:hsla(0,20%,30%,0.8);
+}
+
+#image, #img-caption{
+  max-width:100%;
+  width:600px;
+  height:auto;
+  padding-top: 15px;
+border-right:25px;
+text-align:center;
+  border-left:20px;
+  display:block;
+}
+
+body{  background-color:rgba(156,234,11,0.4);
+}
+
+a:hover{
+  color:magenta;
+}
